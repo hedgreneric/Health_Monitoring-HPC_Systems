@@ -1,1 +1,1 @@
-# Health Monitoring for High Performance Computing (HPC) Systems.
+# Health Monitoring for High Performance Computing (HPC) Systems
