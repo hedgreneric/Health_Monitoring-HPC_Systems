@@ -1,4 +1,5 @@
 # Health Monitoring for High Performance Computing (HPC) Systems
+<<<<<<< HEAD
 
 Iowa State University - Senior Design Project
 
@@ -49,3 +50,5 @@ Client: Lockheed Martin
     - Running Jobs: All the currently running jobs
     - Jobs in queue/scheduled: All the jobs that are in the queue or are scheduled
     - Error Rate: System errors or failed computations.
+=======
+>>>>>>> a5d2fa6947e4a20672916c09cac9550f6ef68a08
